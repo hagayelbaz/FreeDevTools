@@ -1,0 +1,202 @@
+[
+  {
+    "category": "Text Editors",
+    "help": "Brackets is a text editor for web development. It is built on top of web technologies such as HTML, CSS, and JavaScript.",
+    "shortDescription": "Brackets is a text editor for web development.",
+    "linkText": "Brackets",
+    "imageUrl": "https://laviwebfiles.com/courses/wp-content/uploads/2020/08/Brackets_Icon.svg_-84x84.png",
+    "imageAlt": "Brackets",
+    "link": "https://www.brackets.io/",
+    "tags": ["HTML", "CSS", "JavaScript", "editor", "web development"]
+  },
+  {
+    "category": "Text Editors",
+    "help": "Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.",
+    "shortDescription": "Visual Studio Code is a robust editor for programmers.",
+    "linkText": "Visual Studio Code",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.35_icon.svg",
+    "imageAlt": "Visual Studio Code",
+    "link": "https://code.visualstudio.com/",
+    "tags": ["editor", "programming", "Microsoft", "open source", "VS Code"]
+  },
+  {
+    "category": "Font Resources",
+    "help": "Adobe Fonts provides a collection of +14,000 stunning fonts. It helps creative professionals use type effectively.",
+    "shortDescription": "Adobe Fonts offers a vast font library for professional use.",
+    "linkText": "Adobe Fonts",
+    "imageUrl": "https://example.com/adobe-fonts-icon.png",
+    "imageAlt": "Adobe Fonts",
+    "link": "https://fonts.adobe.com/",
+    "tags": ["fonts", "typography", "Adobe", "design", "creative"]
+  },
+  {
+    "category": "Icon Libraries",
+    "help": "Font Awesome provides a set of icons and social logos for your website based on CSS and LESS.",
+    "shortDescription": "Font Awesome offers scalable vector icons that can be customized with CSS.",
+    "linkText": "Font Awesome",
+    "imageUrl": "https://example.com/font-awesome-icon.png",
+    "imageAlt": "Font Awesome",
+    "link": "https://fontawesome.com/",
+    "tags": ["icons", "CSS", "web design", "vector", "UI"]
+  },
+  {
+    "category": "Web Frameworks",
+    "help": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.",
+    "shortDescription": "Bootstrap is a front-end framework for developing responsive web sites.",
+    "linkText": "Bootstrap",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+    "imageAlt": "Bootstrap",
+    "link": "https://getbootstrap.com/",
+    "tags": ["CSS", "framework", "frontend", "responsive", "mobile-first"]
+  },
+  {
+    "category": "JavaScript Libraries",
+    "help": "jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, and animation much simpler.",
+    "shortDescription": "jQuery is a feature-rich JavaScript library.",
+    "linkText": "jQuery",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg",
+    "imageAlt": "jQuery",
+    "link": "https://jquery.com/",
+    "tags": ["JavaScript", "library", "web development", "animation", "AJAX"]
+  },
+  {
+    "category": "Web Frameworks",
+    "help": "Angular is a platform for building mobile and desktop web applications.",
+    "shortDescription": "Angular is a web application framework.",
+    "linkText": "Angular",
+    "imageUrl": "https://angular.io/assets/images/logos/angular/angular.svg",
+    "imageAlt": "Angular",
+    "link": "https://angular.io/",
+    "tags": ["Google", "framework", "SPA", "TypeScript", "frontend"]
+  },
+  {
+    "category": "JavaScript Libraries",
+    "help": "React is a JavaScript library for building user interfaces.",
+    "shortDescription": "React is a library for building UIs.",
+    "linkText": "React",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+    "imageAlt": "React",
+    "link": "https://reactjs.org/",
+    "tags": ["Facebook", "library", "UI", "JavaScript", "frontend"]
+  },
+  {
+    "category": "JavaScript Runtime",
+    "help": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+    "shortDescription": "Node.js is a JavaScript runtime for server-side programming.",
+    "linkText": "Node.js",
+    "imageUrl": "https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg",
+    "imageAlt": "Node.js",
+    "link": "https://nodejs.org/",
+    "tags": ["JavaScript", "runtime", "server", "backend", "Node.js"]
+  },
+  {
+    "category": "Version Control Systems",
+    "help": "GitHub is a platform for version control and collaboration. It lets you and others work together on projects from anywhere.",
+    "shortDescription": "GitHub is a platform for version control using Git.",
+    "linkText": "GitHub",
+    "imageUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "imageAlt": "GitHub",
+    "link": "https://github.com/",
+    "tags": ["Git", "version control", "collaboration", "code", "repository"]
+  },
+  {
+    "category": "Version Control Systems",
+    "help": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+    "shortDescription": "Git is a distributed version control system.",
+    "linkText": "Git",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg",
+    "imageAlt": "Git",
+    "link": "https://git-scm.com/",
+    "tags": ["version control", "software", "code management", "development", "distributed"]
+  },
+  {
+    "category": "CSS Preprocessors",
+    "help": "Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
+    "shortDescription": "Sass is a CSS extension language.",
+    "linkText": "Sass",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg",
+    "imageAlt": "Sass",
+    "link": "https://sass-lang.com/",
+    "tags": ["CSS", "preprocessor", "style", "design", "web development"]
+  },
+  {
+    "category": "Module Bundlers",
+    "help": "Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.",
+    "shortDescription": "Webpack is a module bundler for JavaScript.",
+    "linkText": "Webpack",
+    "imageUrl": "https://webpack.js.org/icon-square-big.svg",
+    "imageAlt": "Webpack",
+    "link": "https://webpack.js.org/",
+    "tags": ["JavaScript", "bundler", "modules", "web development", "frontend"]
+  },
+  {
+    "category": "Programming Languages",
+    "help": "Python is a programming language that lets you work quickly and integrate systems more effectively.",
+    "shortDescription": "Python is a widely used high-level programming language.",
+    "linkText": "Python",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+    "imageAlt": "Python",
+    "link": "https://www.python.org/",
+    "tags": ["programming", "language", "Python", "coding", "scripting"]
+  },
+  {
+    "category": "Web Frameworks",
+    "help": "Ruby on Rails is a server-side web application framework written in Ruby under the MIT License.",
+    "shortDescription": "Ruby on Rails is a server-side web framework.",
+    "linkText": "Ruby on Rails",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg",
+    "imageAlt": "Ruby on Rails",
+    "link": "https://rubyonrails.org/",
+    "tags": ["Ruby", "framework", "web development", "server-side", "Rails"]
+  },
+  {
+    "category": "Containerization Software",
+    "help": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.",
+    "shortDescription": "Docker provides container software platforms.",
+    "linkText": "Docker",
+    "imageUrl": "https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png",
+    "imageAlt": "Docker",
+    "link": "https://www.docker.com/",
+    "tags": ["containers", "Docker", "devops", "virtualization", "software deployment"]
+  },
+  {
+    "category": "Container Orchestration",
+    "help": "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.",
+    "shortDescription": "Kubernetes is a system for managing containerized applications.",
+    "linkText": "Kubernetes",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg",
+    "imageAlt": "Kubernetes",
+    "link": "https://kubernetes.io/",
+    "tags": ["orchestration", "containers", "Kubernetes", "cloud", "scaling"]
+  },
+  {
+    "category": "Databases",
+    "help": "MySQL is an open-source relational database management system.",
+    "shortDescription": "MySQL is a relational database management system.",
+    "linkText": "MySQL",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg",
+    "imageAlt": "MySQL",
+    "link": "https://www.mysql.com/",
+    "tags": ["database", "SQL", "MySQL", "data management", "RDBMS"]
+  },
+  {
+    "category": "Databases",
+    "help": "PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development.",
+    "shortDescription": "PostgreSQL is an advanced object-relational database.",
+    "linkText": "PostgreSQL",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+    "imageAlt": "PostgreSQL",
+    "link": "https://www.postgresql.org/",
+    "tags": ["database", "SQL", "PostgreSQL", "data management", "object-relational"]
+  },
+  {
+    "category": "Databases",
+    "help": "MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need.",
+    "shortDescription": "MongoDB is a scalable document database.",
+    "linkText": "MongoDB",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg",
+    "imageAlt": "MongoDB",
+    "link": "https://www.mongodb.com/",
+    "tags": ["database", "NoSQL", "MongoDB", "big data", "document store"]
+  }
+]

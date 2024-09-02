@@ -24,9 +24,9 @@ const Search = ({
 
     return (
         <div className={`custom-input-container ${className}`}>
-            <SearchIcon className="custom-input-icon"/>
+            {value === "" && <SearchIcon className="custom-input-icon"/>}
 
-            <input type="text"
+            <input type="search"
                    placeholder=" "
                    value={value}
                    onChange={whenChange}
