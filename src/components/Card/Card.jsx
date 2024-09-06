@@ -1,27 +1,35 @@
 import QuestionIcon from '../../assets/svg/question.svg?react';
 import Help from "../Help/Help.jsx";
 import PropTypes from "prop-types";
+import './Card.css';
 
 const Card = ({help, link, linkText, shortDescription, imageUrl, imageAlt}) => {
 
     return (
-        <div className="container-fluid shadow rounded-3 h-100 text-color position-relative">
-            <div className="row text-center">
-                <div className="col">
-                    <Help className="position-absolute top-0 start-0 m-1" text={help}>
-                        <QuestionIcon className="fs-4"/>
-                    </Help>
-                    <img src={imageUrl} alt={imageAlt}
-                         className="img-fluid m-3" style={{width: '50px', height: '50px'}}/>
-                    <a href={link} target="_blank" className="d-block">
-                        {linkText}
-                    </a>
-                    <p>
-                        {shortDescription}
-                    </p>
+        <div
+            className="container-fluid text-color card-nbs rounded-3 secondary-bg p-2 h-100 position-relative d-flex flex-column">
+            <div className="row text-center mt-0 flex-grow-1">
+                <div className="col d-flex flex-column justify-content-between">
+                    <div>
+                        <Help className="position-absolute top-0 start-0 m-2" text={help}>
+                            <QuestionIcon className="fs-3"/>
+                        </Help>
+                        <img src={imageUrl} alt={imageAlt}
+                             className="img-fluid m-3 mb-4" style={{width: '80px', height: '80px'}}/>
+                    </div>
+                    <div>
+                        <a href={link} target="_blank"
+                           className="d-block fs-5 accent-color font-500">
+                            {linkText}
+                        </a>
+                        <p className="px-1 mt-1">
+                            {shortDescription}
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
+
     );
 }
 

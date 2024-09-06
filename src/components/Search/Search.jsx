@@ -1,11 +1,12 @@
 import './Search.css';
 import {useState} from "react";
 import SearchIcon from '../../assets/svg/search.svg?react';
+import PropTypes from "prop-types";
 
 
 const Search = ({
                     placeholder = "Search", value, onChange,
-                    icon: Icon, example, className, ...rest
+                    example, maxLength, className, ...rest
                 }) => {
 
     const [placeHolderText, setPlaceHolderText] =
@@ -34,6 +35,7 @@ const Search = ({
                    required={false}
                    onFocus={handleFocus}
                    onBlur={handleBlur}
+                   maxLength={maxLength}
                    {...rest}/>
 
             <label htmlFor={rest?.id || ""} className="custom-input-label">
@@ -42,5 +44,15 @@ const Search = ({
         </div>
     );
 }
+
+Search.propTypes = {
+    placeholder: PropTypes.string,
+    value: PropTypes.string,
+    onChange: PropTypes.func,
+    icon: PropTypes.elementType,
+    example: PropTypes.string,
+    maxLength: PropTypes.number,
+    className: PropTypes.string
+};
 
 export default Search;

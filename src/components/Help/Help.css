@@ -1,4 +1,5 @@
 .help-icon {
+    color: var(--text-color);
     transition: .1s ease-in;
 }
 
