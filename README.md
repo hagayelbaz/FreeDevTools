@@ -46,7 +46,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Hagay Elbaz - [@hagayelbaz](https://twitter.com/hagayelbaz) -
-hagayelbaz@gmail.com - [hagay-elbaz.com](https://hagay-elbaz.com/contact)
+hagayelbaz@gmail.com - [hagay-elbaz.com](https://www.hagay-elbaz.com/contact)
 
 Project Link: [https://github.com/hagayelbaz/DevAssetHub](https://github.com/hagayelbaz/DevAssetHub)
 
