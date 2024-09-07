@@ -4,47 +4,42 @@ import './About.css';
 
 
 const About = ({show, setShow}) => {
-    if (!show) {
-        return null;
-    }
 
     const handleOutsideClick = (e) => {
-        if (e.target === e.currentTarget) {
+        if (e.target === e.currentTarget)
             setShow(false);
-        }
     }
 
     return (
-        <Modal show={show} centered className=""
-               onHide={() => setShow(false)} onClick={handleOutsideClick}>
-                <Modal.Header closeButton closeVariant="white"
-                              className="text-color">
+        <Modal show={show} centered onHide={() => setShow(false)} onClick={handleOutsideClick}>
+                <Modal.Header closeButton closeVariant="white" className="text-color">
                     <Modal.Title>About</Modal.Title>
                 </Modal.Header>
             <Modal.Body className="text-color">
                 <p>
-                    Welcome to our application, a dynamic tool designed to streamline and enhance your data management
-                    experience. This app leverages a robust JSON-based database to provide fast and accurate search
-                    capabilities, allowing users to quickly find the information they need.
+                    Welcome to DevAssetHub, your go-to resource for free development tools and assets. This application
+                    is designed to help developers enhance their projects by providing easy access to a wide array of
+                    resources, all in one convenient location.
                 </p>
                 <p>
                     Features include:
                     <ul>
-                        <li>Real-time search functionality that instantly filters results as you type.</li>
-                        <li>An intuitive, user-friendly interface designed for seamless navigation and accessibility.
-                        </li>
-                        <li>Fully responsive design ensuring a consistent experience across all devices and platforms.
-                        </li>
+                        <li>Extensive collection of free images perfect for any project.</li>
+                        <li>A variety of fonts to enhance the aesthetic of your applications.</li>
+                        <li>Customizable icons to add visual interest and clarity to your user interfaces.</li>
+                        <li>Selection of pre-designed backgrounds to give your projects a professional look.</li>
+                        <li>Handpicked code editors known for their efficiency and effectiveness.</li>
                     </ul>
                 </p>
                 <p>
-                    Our application is perfect for individuals and businesses looking for an efficient way to access and
-                    explore large datasets. Whether you are managing customer information, tracking inventory, or simply
-                    organizing your data, our tool provides a reliable and powerful solution.
+                    DevAssetHub is ideal for developers at all levels, from beginners to experienced professionals,
+                    looking to streamline their workflow and enrich their applications with high-quality assets. Explore
+                    our site to find the perfect tools to elevate your development process.
                 </p>
+
                 <p className="text-center mt-5 mb-1">
                     Created by &nbsp;
-                    <a href="https://www.hagay-elbaz.com" target="_new">
+                    <a href="https://www.hagay-elbaz.com" target="_blank">
                         Hagay Elbaz
                     </a>
                 </p>
