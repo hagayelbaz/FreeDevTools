@@ -3,14 +3,15 @@ import Help from "../Help/Help.jsx";
 import PropTypes from "prop-types";
 import './Card.css';
 
-const Card = ({help, link, linkText, shortDescription, imageUrl, imageAlt}) => {
+const Card = ({description, link, linkText, shortDescription, imageUrl, imageAlt}) => {
+
 
     return (
         <div className="container-fluid text-color item-card rounded-3 secondary-bg p-2">
             <div className="row text-center mt-0 flex-grow-1">
                 <div className="col d-flex flex-column justify-content-between">
                     <div>
-                        <Help className="position-absolute top-0 start-0 m-2" text={help}>
+                        <Help className="position-absolute top-0 start-0 m-2" text={description}>
                             <QuestionIcon className="fs-3"/>
                         </Help>
                         <img src={imageUrl} alt={imageAlt} className="img-fluid m-3 mb-4"/>
@@ -31,7 +32,7 @@ const Card = ({help, link, linkText, shortDescription, imageUrl, imageAlt}) => {
 }
 
 Card.propTypes = {
-    help: PropTypes.string,
+    description: PropTypes.string,
     link: PropTypes.string,
     shortDescription: PropTypes.string,
     linkText: PropTypes.string,

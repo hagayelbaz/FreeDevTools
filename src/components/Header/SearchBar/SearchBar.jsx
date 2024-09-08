@@ -9,7 +9,7 @@ const SearchBar = ({ searchValue, setSearchValue }) => {
         <div className="col">
             <div className="col-md-7 col-lg-6 col-xxl-5">
                 <Search name="search" maxLength={20}
-                        example="Cow" className="my-3" value={searchValue}
+                        example="Images" className="my-3" value={searchValue}
                         onChange={searchChange} placeholder="search"/>
             </div>
         </div>

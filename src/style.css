@@ -16,8 +16,8 @@
     --secondary-color-light: #5c5d5e;
     --secondary-color-dark: #1e1f22;
     --accent-color: #646cff;
-    --accent-color-light: #00c2a2;
-    --accent-color-dark: #007f5f;
+    --accent-color-light: #747bff;
+    --accent-color-dark: #4c4cff;
     --text-color: #bebebe;
     --text-lighter: #cfcfcf;
 
@@ -291,15 +291,17 @@ input[type=number] {
 /* scrollbar style */
 ::-webkit-scrollbar {
     width: 6px;
+    height: 4px;
 }
 
 ::-webkit-scrollbar-track {
-    background: var(--secondary-color);
+    background: var(--secondary-color-light);
+
 }
 
 ::-webkit-scrollbar-thumb {
     background: var(--accent-color);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 ::-webkit-scrollbar-thumb:hover {

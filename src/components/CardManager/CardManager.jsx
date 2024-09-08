@@ -1,4 +1,3 @@
-import Card from "../Card/Card.jsx";
 import PropTypes from "prop-types";
 import './CardManager.css';
 import SearchManager from "./SearchManager.js";
@@ -6,10 +5,10 @@ import CategoryViewer from "./CategoryViewer.jsx";
 
 
 
-const CardManager = ({ data, searchValue }) => {
+const CardManager = ({ data, searchValue, categories}) => {
     const searchManager = new SearchManager(data);
     const toShow = searchManager.search(searchValue || "");
-    const categorizedData = searchManager.groupByCategory(toShow || data);
+    const filteredData = searchManager.groupByCategory(toShow || data);
 
     return (
         <div className="container-fluid p-0 py-2 m-0 secondary-bg shadow-nbs rounded-3">
@@ -19,7 +18,7 @@ const CardManager = ({ data, searchValue }) => {
                     {searchValue && toShow.length === 0 && ` No results found for '${searchValue}'`}
                 </div>
             }
-            <CategoryViewer categories={categorizedData} />
+            <CategoryViewer data={filteredData} categories={categories}/>
         </div>
     );
 }
@@ -27,7 +26,8 @@ const CardManager = ({ data, searchValue }) => {
 
 CardManager.propTypes = {
     data: PropTypes.array,
-    searchValue: PropTypes.string
+    searchValue: PropTypes.string,
+    categories: PropTypes.object,
 };
 
 export default CardManager;

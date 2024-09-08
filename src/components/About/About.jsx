@@ -17,7 +17,8 @@ const About = ({show, setShow}) => {
                 </Modal.Header>
             <Modal.Body className="text-color">
                 <p>
-                    Welcome to DevAssetHub, your go-to resource for free development tools and assets. This application
+                    Welcome to <span className="accent-color"> Free Dev Tools </span>, your go-to resource for free
+                    development tools and assets. This application
                     is designed to help developers enhance their projects by providing easy access to a wide array of
                     resources, all in one convenient location.
                 </p>
@@ -32,7 +33,7 @@ const About = ({show, setShow}) => {
                     </ul>
                 </p>
                 <p>
-                    DevAssetHub is ideal for developers at all levels, from beginners to experienced professionals,
+                    <span className="accent-color"> Free Dev Tools </span> is ideal for developers at all levels, from beginners to experienced professionals,
                     looking to streamline their workflow and enrich their applications with high-quality assets. Explore
                     our site to find the perfect tools to elevate your development process.
                 </p>
@@ -46,12 +47,6 @@ const About = ({show, setShow}) => {
             </Modal.Body>
         </Modal>
     )
-}
-
-About.defaultProps = {
-    show: false,
-    setShow: () => {
-    }
 }
 
 About.propTypes = {

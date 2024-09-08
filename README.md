@@ -1,6 +1,6 @@
-# DevAssetHub
+# Free Dev Tools
 
-Welcome to DevAssetHub, the ultimate resource for developers seeking free tools and assets to enhance their projects.
+Welcome to Free Dev Tools, the ultimate resource for developers seeking free tools and assets to enhance their projects.
 This React application provides easy access to a variety of development resources including images, fonts, icons,
 backgrounds, and code editors.
 

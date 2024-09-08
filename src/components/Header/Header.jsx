@@ -6,7 +6,6 @@ import SearchBar from "./SearchBar/SearchBar.jsx";
 import NavigationToggle from "./NavigationToggle/NavigationToggle.jsx";
 import HeaderLinks from "./HeaderLinks/HeaderLinks.jsx";
 
-
 const Header = ({searchValue, setSearchValue}) => {
     const [aboutShow, setAboutShow] = useState(false);
 
@@ -14,6 +13,9 @@ const Header = ({searchValue, setSearchValue}) => {
         <Navbar expand="md" className="col m-3 shadow-nbs secondary-bg rounded-3">
             <div className="container-fluid">
                 <div className="row align-items-center w-100">
+                    <a href="/" className="col-auto mx-0 pe-0">
+                        <img src="logo.svg" alt="logo" style={{width: "3rem"}}/>
+                    </a>
                     <SearchBar searchValue={searchValue} setSearchValue={setSearchValue}/>
                     <NavigationToggle/>
                     <HeaderLinks showAbout={() => setAboutShow(true)}/>
@@ -26,15 +28,8 @@ const Header = ({searchValue, setSearchValue}) => {
     )
 }
 
-Header.defaultProps = {
-    searchValue: "",
-    setSearchValue: () => {},
-    setAboutShow: () => {}
-}
-
 Header.propTypes = {
     searchValue: PropTypes.string,
-    setSearchValue: PropTypes.func,
-    setAboutShow: PropTypes.func
+    setSearchValue: PropTypes.func
 }
 export default Header;
