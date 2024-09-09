@@ -27,9 +27,10 @@ const About = ({show, setShow}) => {
                     <ul>
                         <li>Extensive collection of free images perfect for any project.</li>
                         <li>A variety of fonts to enhance the aesthetic of your applications.</li>
-                        <li>Customizable icons to add visual interest and clarity to your user interfaces.</li>
-                        <li>Selection of pre-designed backgrounds to give your projects a professional look.</li>
-                        <li>Handpicked code editors known for their efficiency and effectiveness.</li>
+                        <li>Icons to add visual appeal to your projects.</li>
+                        <li>Color palettes to help you choose the perfect color scheme.</li>
+                        <li>Code snippets to simplify your development process.</li>
+                        <li>And much more!</li>
                     </ul>
                 </p>
                 <p>

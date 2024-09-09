@@ -1,362 +1,820 @@
 [
   {
-    "category": "Fonts",
-    "description": "Google Fonts offers a large collection of free and open-source fonts, providing designers and developers with typographic freedom.",
-    "shortDescription": "Open-source web fonts library.",
-    "linkText": "Google Fonts",
-    "imageUrl": "https://www.cdnlogo.com/logos/g/18/google-fonts-2021.svg",
-    "imageAlt": "Google Fonts Logo",
-    "link": "https://fonts.google.com/",
-    "tags": ["fonts", "typography", "web fonts", "open source", "google", "design resources"]
+    "category": "Design Tools",
+    "description": "Haikei offers customizable backgrounds and SVG resources, ideal for enhancing digital projects.",
+    "shortDescription": "Customizable SVG backgrounds.",
+    "linkText": "Haikei",
+    "imageUrl": "https://app.haikei.app/covers/blurry-gradient-cover.png",
+    "imageAlt": "Haikei Cover",
+    "link": "https://app.haikei.app",
+    "tags": [
+      "SVG",
+      "backgrounds",
+      "design tools",
+      "customizable",
+      "graphics",
+      "web design"
+    ]
+  },
+  {
+    "category": "Design Tools",
+    "description": "GLTF provides powerful 3D model tools, facilitating advanced 3D modeling techniques for developers.",
+    "shortDescription": "Advanced 3D modeling tools.",
+    "linkText": "GLTF",
+    "imageUrl": "https://gltf.pmnd.rs/apple-touch-icon.png",
+    "imageAlt": "GLTF Logo",
+    "link": "https://gltf.pmnd.rs",
+    "tags": [
+      "3D modeling",
+      "graphics",
+      "design",
+      "technology",
+      "web development",
+      "3D"
+    ]
+  },
+  {
+    "category": "Icons",
+    "description": "React Icons features a comprehensive suite of icons, making it easier for developers to integrate into React applications.",
+    "shortDescription": "Comprehensive icon suite for React.",
+    "linkText": "React Icons",
+    "imageUrl": "https://react-icons.github.io/react-icons/favicon.png",
+    "imageAlt": "React Icons Favicon",
+    "link": "https://react-icons.github.io/react-icons",
+    "tags": [
+      "icons",
+      "React",
+      "SVG",
+      "development",
+      "frontend",
+      "UI"
+    ]
   },
   {
     "category": "Fonts",
-    "description": "Fontshare offers a curated selection of high-quality fonts for free use, aimed at typographic enthusiasts.",
+    "description": "Google Fonts offers a diverse range of free, high-quality fonts accessible for digital design.",
     "shortDescription": "Free, high-quality fonts.",
-    "linkText": "Fontshare",
-    "imageUrl": "https://www.fontshare.com/assets/images/share.f415a558.jpg",
-    "imageAlt": "Fontshare Logo",
-    "link": "https://www.fontshare.com/",
-    "tags": ["fonts", "typography", "free fonts", "design", "open-source fonts", "web design"]
+    "linkText": "Google Fonts",
+    "imageUrl": "https://seeklogo.com/images/G/google-fonts-logo-185D843C0C-seeklogo.com.png",
+    "imageAlt": "Google Fonts Logo",
+    "link": "https://fonts.google.com",
+    "tags": [
+      "fonts",
+      "typography",
+      "open source",
+      "web design",
+      "graphic design",
+      "resources"
+    ]
   },
   {
-    "category": "Fonts",
-    "description": "Fontsquirrel provides hand-selected, high-quality, and legally licensed fonts, both free and commercial.",
-    "shortDescription": "Free fonts for designers.",
-    "linkText": "FontSquirrel",
-    "imageUrl": "https://www.fontsquirrel.com/presentation/images/logo.png",
-    "imageAlt": "FontSquirrel Logo",
-    "link": "https://www.fontsquirrel.com/",
-    "tags": ["fonts", "typography", "web fonts", "free fonts", "design tools", "creative resources"]
-  },
-  {
-    "category": "Fonts",
-    "description": "XZ Fonts provides a collection of professional, designer-focused fonts with minimal and clean styles.",
-    "shortDescription": "Professional, minimal fonts.",
-    "linkText": "XZ Fonts",
-    "imageUrl": "https://2966418452-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/spaces%2F-M45SHIzm-P0Y-vjvrXE%2Favatar-1587931633773.png?generation=1587931634036155&alt=media",
-    "imageAlt": "XZ Fonts Logo",
-    "link": "https://docs.xz.style/fonts/",
-    "tags": ["fonts", "minimalist fonts", "professional", "clean design", "typography", "web design"]
-  },
-  {
-    "category": "Fonts",
-    "description": "FontSpace is a free font website sharing thousands of fonts from various designers around the world.",
-    "shortDescription": "Free fonts from global designers.",
-    "linkText": "FontSpace",
-    "imageUrl": "https://www.fontspace.com/favicon.ico",
-    "imageAlt": "FontSpace Logo",
-    "link": "https://www.fontspace.com/",
-    "tags": ["fonts", "free fonts", "design resources", "typography", "creative fonts", "global designers"]
-  },
-  {
-    "category": "Stock Images",
-    "description": "Unsplash is a large community-driven platform offering free, high-quality images for personal and commercial use.",
-    "shortDescription": "Free high-quality images.",
+    "category": "Photography",
+    "description": "Unsplash provides high-quality, freely usable images sourced from the world's most generous community of photographers.",
+    "shortDescription": "High-quality, freely usable images.",
     "linkText": "Unsplash",
-    "imageUrl": "https://unsplash.com/apple-touch-icon.png",
-    "imageAlt": "Unsplash Logo",
-    "link": "https://unsplash.com/",
-    "tags": ["stock photos", "photography", "free images", "creative resources", "high-resolution", "design resources"]
+    "imageUrl": "https://unsplash.com/favicon.ico",
+    "imageAlt": "Unsplash Favicon",
+    "link": "https://unsplash.com",
+    "tags": [
+      "photography",
+      "free images",
+      "high-resolution",
+      "stock photography",
+      "creative commons",
+      "media"
+    ]
   },
   {
-    "category": "Stock Images",
-    "description": "Pexels provides high-quality, free stock photos and videos licensed under the Pexels license.",
+    "category": "Photography",
+    "description": "Pexels offers free, high-quality stock photos and videos provided by talented creators.",
     "shortDescription": "Free stock photos and videos.",
     "linkText": "Pexels",
-    "imageUrl": "https://www.pexels.com/favicon.ico",
-    "imageAlt": "Pexels Logo",
-    "link": "https://www.pexels.com/",
-    "tags": ["stock photos", "videos", "free images", "high-resolution", "creative resources", "design"]
+    "imageUrl": "https://www.pexels.com/assets/static/images/meta/pexels-icon.png",
+    "imageAlt": "Pexels Icon",
+    "link": "https://www.pexels.com",
+    "tags": [
+      "photography",
+      "stock photos",
+      "videos",
+      "free",
+      "creative commons",
+      "high-quality"
+    ]
   },
   {
-    "category": "Stock Videos",
-    "description": "Coverr offers free stock videos for website backgrounds or other creative uses, with no attribution required.",
-    "shortDescription": "Free stock videos for web use.",
+    "category": "Video",
+    "description": "Coverr offers free stock footage and motion backgrounds for commercial and personal use.",
+    "shortDescription": "Free stock footage and backgrounds.",
     "linkText": "Coverr",
-    "imageUrl": "https://coverr.co/favicon.ico",
-    "imageAlt": "Coverr Logo",
-    "link": "https://coverr.co/",
-    "tags": ["stock videos", "free videos", "website backgrounds", "web design", "creative", "no attribution"]
+    "imageUrl": "https://coverr.co/apple-touch-icon.png",
+    "imageAlt": "Coverr Icon",
+    "link": "https://coverr.co",
+    "tags": [
+      "videos",
+      "stock footage",
+      "free",
+      "motion backgrounds",
+      "multimedia",
+      "commercial use"
+    ]
   },
   {
-    "category": "Stock Images",
-    "description": "Pixabay provides high-quality free images and videos for personal and commercial use.",
-    "shortDescription": "Free high-quality images and videos.",
+    "category": "Photography",
+    "description": "Pixabay provides a wide array of free stock photos, vectors, and art illustrations.",
+    "shortDescription": "Free stock photos and illustrations.",
     "linkText": "Pixabay",
-    "imageUrl": "https://pixabay.com/favicon.ico",
-    "imageAlt": "Pixabay Logo",
-    "link": "https://pixabay.com/",
-    "tags": ["stock photos", "free images", "videos", "high-resolution", "creative resources", "commercial use"]
+    "imageUrl": "https://pixabay.com/apple-touch-icon.png",
+    "imageAlt": "Pixabay Apple Icon",
+    "link": "https://pixabay.com",
+    "tags": [
+      "stock photos",
+      "free",
+      "vectors",
+      "illustrations",
+      "photography",
+      "creative commons"
+    ]
   },
   {
-    "category": "Stock Images",
-    "description": "Burst is a free stock photo platform powered by Shopify, offering images for entrepreneurs and business owners.",
-    "shortDescription": "Free business-oriented stock photos.",
-    "linkText": "Burst",
-    "imageUrl": "https://cdn.shopify.com/shopifycloud/stock_photos/assets/global/favicon-ab7018e1fe708a49edcfecce3166032fbeeb1fd7ba4a078c366de344d32ee193.png",
-    "imageAlt": "Burst Logo",
-    "link": "https://burst.shopify.com/",
-    "tags": ["stock photos", "business", "free images", "entrepreneurs", "ecommerce", "shopify"]
-  },
-  {
-    "category": "Stock Images",
-    "description": "Stocksnap offers high-resolution stock photos that are free to use and require no attribution.",
-    "shortDescription": "Free high-resolution stock photos.",
-    "linkText": "Stocksnap",
+    "category": "Photography",
+    "description": "StockSnap offers an extensive array of high-quality, free stock photos for commercial and personal use, featuring a straightforward licensing model.",
+    "shortDescription": "Free, high-quality stock photos.",
+    "linkText": "StockSnap",
     "imageUrl": "https://stocksnap.io/img/favicon.png",
-    "imageAlt": "Stocksnap Logo",
-    "link": "https://stocksnap.io/",
-    "tags": ["stock photos", "free images", "high-resolution", "no attribution", "creative resources", "web design"]
+    "imageAlt": "StockSnap Favicon",
+    "link": "https://stocksnap.io",
+    "tags": [
+      "stock photos",
+      "free",
+      "high-quality",
+      "commercial use",
+      "photography",
+      "creative commons"
+    ]
   },
   {
-    "category": "Stock Images",
-    "description": "Stock Up aggregates free stock photos from multiple websites, offering an easy-to-search collection of images.",
-    "shortDescription": "Free stock photo aggregator.",
+    "category": "Photography",
+    "description": "Stock Up aggregates high-quality stock photos from multiple sources into a single platform for easy access.",
+    "shortDescription": "Aggregate high-quality stock photos.",
     "linkText": "Stock Up",
-    "imageUrl": "https://d1zr89d0sz2y0f.cloudfront.net/assets/favicon-386f655dbc5e5c65e17e3e6fc07cfb714f55ef6770986f00d5c2ef393385b626.png",
-    "imageAlt": "Stock Up Logo",
-    "link": "https://www.sitebuilderreport.com/stock-up",
-    "tags": ["stock photos", "free images", "aggregator", "multiple sources", "creative resources", "web design"]
+    "imageUrl": "https://d1zr89d0sz2y0f.cloudfront.net/assets/favicon.png",
+    "imageAlt": "Stock Up Favicon",
+    "link": "https://stockup.sitebuilderreport.com",
+    "tags": [
+      "stock images",
+      "free",
+      "aggregate",
+      "high-quality",
+      "photography",
+      "resources"
+    ]
   },
   {
     "category": "Illustrations",
-    "description": "unDraw offers free, customizable illustrations for your web projects without any attribution required.",
-    "shortDescription": "Free customizable illustrations.",
-    "linkText": "unDraw",
+    "description": "UnDraw provides a constantly updated collection of beautiful svg illustrations that you can use completely free and without attribution.",
+    "shortDescription": "Free svg illustrations.",
+    "linkText": "UnDraw",
     "imageUrl": "https://undraw.co/apple-touch-icon.png",
-    "imageAlt": "unDraw Logo",
-    "link": "https://undraw.co/",
-    "tags": ["illustrations", "free illustrations", "vector", "customizable", "design", "creative resources"]
+    "imageAlt": "UnDraw Icon",
+    "link": "https://undraw.co",
+    "tags": [
+      "illustrations",
+      "SVG",
+      "free",
+      "open source",
+      "graphics",
+      "design"
+    ]
   },
   {
     "category": "Illustrations",
-    "description": "IllustrationKit provides free and premium illustrations for personal and commercial use.",
-    "shortDescription": "Free and premium illustrations.",
-    "linkText": "IllustrationKit",
-    "imageUrl": "https://illustrationkit.com/favicon-96x96.png",
-    "imageAlt": "IllustrationKit Logo",
-    "link": "https://illustrationkit.com/",
-    "tags": ["illustrations", "premium illustrations", "vector", "creative resources", "web design", "commercial use"]
+    "description": "Illustration Kit offers a free collection of customizable illustrations for web and mobile projects.",
+    "shortDescription": "Customizable illustrations for projects.",
+    "linkText": "Illustration Kit",
+    "imageUrl": "https://illustrationkit.com/apple-icon-180x180.png",
+    "imageAlt": "Illustration Kit Logo",
+    "link": "https://illustrationkit.com",
+    "tags": [
+      "illustrations",
+      "free",
+      "customizable",
+      "design",
+      "web development",
+      "mobile"
+    ]
   },
   {
     "category": "Mockups",
-    "description": "MockupBro is a free tool to create realistic mockups for various products and digital assets with an easy-to-use interface.",
-    "shortDescription": "Create free realistic mockups.",
-    "linkText": "MockupBro",
+    "description": "Mockup Bro provides a wide range of free and premium PSD mockups for showcasing your designs in realistic environments.",
+    "shortDescription": "Free and premium PSD mockups.",
+    "linkText": "Mockup Bro",
     "imageUrl": "https://mockupbro.com/_nuxt/icons/icon_64.90whVEWamww.png",
-    "imageAlt": "MockupBro Logo",
-    "link": "https://mockupbro.com/",
-    "tags": ["mockups", "free mockups", "design tools", "realistic", "easy-to-use", "creative resources"]
+    "imageAlt": "Mockup Bro Icon",
+    "link": "https://mockupbro.com",
+    "tags": [
+      "mockups",
+      "PSD",
+      "free",
+      "premium",
+      "design",
+      "showcase",
+      "graphics"
+    ]
+  },
+  {
+    "category": "Image Tools",
+    "description": "Squoosh is an advanced image compression web app that allows users to dive deep into the specifics of various compression formats.",
+    "shortDescription": "Advanced image compression tool.",
+    "linkText": "Squoosh",
+    "imageUrl": "https://squoosh.app/c/icon-large-maskable-c2078ced.png",
+    "imageAlt": "Squoosh Logo",
+    "link": "https://squoosh.app",
+    "tags": ["image compression", "web tool", "optimization", "performance", "image editing", "open source"]
+  },
+  {
+    "category": "Image Tools",
+    "description": "BeFunky is a user-friendly online platform offering a comprehensive suite of photo editing, collage making, and graphic design tools.",
+    "shortDescription": "Photo editing and graphic design suite.",
+    "linkText": "BeFunky",
+    "imageUrl": "https://www.befunky.com/images/site/b-logo-dark-with-bg-180.png",
+    "imageAlt": "BeFunky Logo",
+    "link": "https://www.befunky.com",
+    "tags": ["photo editing", "graphic design", "collage making", "creative tools", "online editor"]
+  },
+  {
+    "category": "Image Tools",
+    "description": "Remove.bg is an online tool that automatically removes backgrounds from photos, using advanced artificial intelligence algorithms to distinguish foreground elements.",
+    "shortDescription": "Automatically removes photo backgrounds.",
+    "linkText": "Remove.bg",
+    "imageUrl": "https://www.remove.bg/apple-touch-icon.png",
+    "imageAlt": "Remove.bg Logo",
+    "link": "https://www.remove.bg",
+    "tags": ["background removal", "photo editing", "AI", "image processing", "automation", "tools"]
+  },
+  {
+    "category": "Color Tools",
+    "description": "HTML Color Codes provides a comprehensive suite of tools for finding, testing, and generating color codes used in web design and development.",
+    "shortDescription": "Color selection and generation tools.",
+    "linkText": "HTML Color Codes",
+    "imageUrl": "https://htmlcolorcodes.com/assets/images/icons/icon-192x192.png",
+    "imageAlt": "HTML Color Codes Logo",
+    "link": "https://htmlcolorcodes.com",
+    "tags": ["color codes", "design", "tools", "web development", "CSS", "color picker"]
+  },
+  {
+    "category": "Color Tools",
+    "description": "Coolors is a fast color scheme generator that helps designers create the perfect palette or get inspired by thousands of beautiful color schemes.",
+    "shortDescription": "Color scheme generator.",
+    "linkText": "Coolors",
+    "imageUrl": "data:image/png;base64,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",
+    "imageAlt": "Coolors Logo",
+    "link": "https://coolors.co",
+    "tags": ["color schemes", "design", "palette generator", "visualization", "creativity", "design tools"]
+  },
+  {
+    "category": "SEO Tools",
+    "description": "Metatags.io helps webmasters and marketers refine and generate meta tags to improve SEO and overall site performance in search engine results.",
+    "shortDescription": "Meta tag generation and analysis tool.",
+    "linkText": "Metatags.io",
+    "imageUrl": "https://metatags.io/images/favicon.png",
+    "imageAlt": "Metatags.io Logo",
+    "link": "https://metatags.io",
+    "tags": ["SEO", "meta tags", "marketing", "web tools", "search engine optimization", "website performance"]
+  },
+  {
+    "category": "Web Development",
+    "description": "CSS Reference is a free visual guide to CSS, showcasing examples of CSS properties and how they function within the web.",
+    "shortDescription": "Visual guide to CSS.",
+    "linkText": "CSS Reference",
+    "imageUrl": "https://cssreference.io/favicons/apple-touch-icon.png",
+    "imageAlt": "CSS Reference Logo",
+    "link": "https://cssreference.io",
+    "tags": ["CSS", "web development", "education", "reference", "visual guide", "coding"]
   },
   {
     "category": "Mockups",
-    "description": "Mockup World offers the biggest collection of free, photorealistic mockups online, ranging from digital devices to print material.",
-    "shortDescription": "Free photorealistic mockups.",
+    "description": "Mockup World offers the largest selection of free mockups for various devices and products.",
+    "shortDescription": "Largest selection of free mockups.",
     "linkText": "Mockup World",
-    "imageUrl": "https://www.mockupworld.co/favicon.ico",
-    "imageAlt": "Mockup World Logo",
-    "link": "https://www.mockupworld.co/",
-    "tags": ["mockups", "free mockups", "photorealistic", "digital devices", "print mockups", "design"]
+    "imageUrl": "https://www.mockupworld.co/wp-content/uploads/fbrfg/apple-touch-icon.png",
+    "imageAlt": "Mockup World Favicon",
+    "link": "https://www.mockupworld.co",
+    "tags": [
+      "mockups",
+      "free",
+      "devices",
+      "graphics",
+      "design",
+      "presentation",
+      "tools"
+    ]
+  },
+  {
+    "category": "Web Editors",
+    "description": "HTML5 Editor provides an online platform that allows users to write, edit, and test HTML5 code directly from their browser, facilitating web development and learning.",
+    "shortDescription": "Online HTML5 coding and testing platform.",
+    "linkText": "HTML5 Editor",
+    "imageUrl": "https://html5-editor.net/images/favicon.ico",
+    "imageAlt": "HTML5 Editor Favicon",
+    "link": "https://html5-editor.net",
+    "tags": ["HTML5", "editor", "web development", "coding", "online tool", "learning"]
+  },
+  {
+    "category": "Web Editors",
+    "description": "CodePen is an online community and development environment where developers can write code in the browser, and see the results of their work instantly.",
+    "shortDescription": "Live, interactive coding environment.",
+    "linkText": "CodePen",
+    "imageUrl": "https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico",
+    "imageAlt": "CodePen Favicon",
+    "link": "https://codepen.io/pen",
+    "tags": ["HTML", "CSS", "JavaScript", "editor", "live coding", "web development", "community"]
   },
   {
     "category": "Icons",
-    "description": "Flaticon is the largest database of free icons available in PNG, SVG, EPS, PSD, and BASE 64 formats.",
-    "shortDescription": "Free icon database.",
+    "description": "Flaticon offers a vast library of free icons available for download in SVG, PSD, PNG, or as icon fonts.",
+    "shortDescription": "Free icons in various formats.",
     "linkText": "Flaticon",
-    "imageUrl": "https://www.flaticon.com/media/dist/min/img/favicon.ico",
-    "imageAlt": "Flaticon Logo",
-    "link": "https://www.flaticon.com/",
-    "tags": ["icons", "free icons", "design resources", "SVG icons", "web design", "UI/UX"]
+    "imageUrl": "https://www.flaticon.com/favicon.ico",
+    "imageAlt": "Flaticon Favicon",
+    "link": "https://www.flaticon.com",
+    "tags": [
+      "icons",
+      "free",
+      "SVG",
+      "PSD",
+      "PNG",
+      "fonts",
+      "graphics"
+    ]
   },
   {
     "category": "Icons",
-    "description": "Iconfinder provides over 5 million free and premium icons for designers and developers.",
-    "shortDescription": "Free and premium icons.",
-    "linkText": "Iconfinder",
-    "imageUrl": "https://cdn.iconfinder.com/static/img/favicons/favicon.ico",
-    "imageAlt": "Iconfinder Logo",
-    "link": "https://www.iconfinder.com/",
-    "tags": ["icons", "free icons", "premium icons", "design tools", "SVG", "UI/UX design"]
+    "description": "Icon Finder provides high-quality icons in various formats to enhance web and application interfaces.",
+    "shortDescription": "High-quality icons for interfaces.",
+    "linkText": "Icon Finder",
+    "imageUrl": "https://www.iconfinder.com/favicon.ico",
+    "imageAlt": "Icon Finder Favicon",
+    "link": "https://www.iconfinder.com",
+    "tags": [
+      "icons",
+      "high-quality",
+      "web development",
+      "applications",
+      "UI design",
+      "resources"
+    ]
   },
   {
     "category": "Icons",
-    "description": "Iconshock offers a vast collection of premium and free icons, designed for different categories and styles.",
-    "shortDescription": "Premium and free icons.",
-    "linkText": "Iconshock",
+    "description": "RealFaviconGenerator offers a comprehensive service for creating and testing favicons for all platforms, ensuring compatibility across devices.",
+    "shortDescription": "Favicon creation and testing service.",
+    "linkText": "RealFaviconGenerator",
+    "imageUrl": "https://realfavicongenerator.net/the_favicon/apple-touch-icon.png",
+    "imageAlt": "RealFaviconGenerator Logo",
+    "link": "https://realfavicongenerator.net",
+    "tags": ["favicon", "icon generator", "web development", "cross-platform", "design tools", "branding"]
+  },
+  {
+    "category": "Icons",
+    "description": "Icon Shock offers millions of icons and graphics for all kinds of professional uses, from web to print.",
+    "shortDescription": "Millions of professional icons and graphics.",
+    "linkText": "Icon Shock",
     "imageUrl": "https://www.iconshock.com/img/favicon.ico",
-    "imageAlt": "Iconshock Logo",
-    "link": "https://www.iconshock.com/",
-    "tags": ["icons", "premium icons", "free icons", "design resources", "web design", "creative"]
+    "imageAlt": "Icon Shock Favicon",
+    "link": "https://www.iconshock.com",
+    "tags": [
+      "icons",
+      "graphics",
+      "professional",
+      "web",
+      "print",
+      "design",
+      "resources"
+    ]
   },
   {
     "category": "Icons",
-    "description": "Iconify provides a huge collection of open-source icon sets that are available for free, with SVG and web-friendly formats.",
-    "shortDescription": "Open-source icon sets.",
+    "description": "Iconify offers a new way to manage icons, with extensive libraries and support for SVG.",
+    "shortDescription": "Extensive icon libraries with SVG support.",
     "linkText": "Iconify",
-    "imageUrl": "https://icon-sets.iconify.design/favicon.ico",
+    "imageUrl": "https://icon-sets.iconify.design/favicon.svg",
     "imageAlt": "Iconify Logo",
-    "link": "https://icon-sets.iconify.design/",
-    "tags": ["icons", "open-source", "SVG", "free icons", "web design", "icon sets"]
+    "link": "https://icon-sets.iconify.design",
+    "tags": [
+      "icons",
+      "SVG",
+      "libraries",
+      "design",
+      "development",
+      "web"
+    ]
   },
   {
     "category": "Icons",
-    "description": "Iconmonstr provides free and simple black and white icons for personal and commercial use.",
-    "shortDescription": "Simple black and white icons.",
-    "linkText": "Iconmonstr",
+    "description": "Icon Monstr offers a large array of free, simply designed icons suitable for web projects and presentations.",
+    "shortDescription": "Free simple icons for web and presentations.",
+    "linkText": "Icon Monstr",
     "imageUrl": "https://iconmonstr.com/wp-content/themes/iconmonstr/assets/ico/2.0.0/favicon.ico",
-    "imageAlt": "Iconmonstr Logo",
-    "link": "https://www.iconmonstr.com/",
-    "tags": ["icons", "simple icons", "black and white icons", "free icons", "SVG", "design"]
+    "imageAlt": "Icon Monstr Favicon",
+    "link": "https://www.iconmonstr.com",
+    "tags": [
+      "icons",
+      "free",
+      "simple",
+      "web design",
+      "presentations",
+      "graphics"
+    ]
   },
   {
-    "category": "Patterns",
-    "description": "Toptal's Subtle Patterns offers free textured patterns to use in website and app design.",
-    "shortDescription": "Free subtle patterns for design.",
+    "category": "Backgrounds",
+    "description": "Subtle Patterns offers high-quality, free downloadable patterns for websites and digital design projects.",
+    "shortDescription": "Free downloadable design patterns.",
     "linkText": "Subtle Patterns",
-    "imageUrl": "https://www.toptal.com/designers/subtlepatterns/favicon.ico",
-    "imageAlt": "Subtle Patterns Logo",
-    "link": "https://www.toptal.com/designers/subtlepatterns/",
-    "tags": ["patterns", "free patterns", "web design", "backgrounds", "textures", "design resources"]
+    "imageUrl": "https://www.toptal.com/designers/subtlepatterns/apple-touch-icon.png",
+    "imageAlt": "Subtle Patterns",
+    "link": "https://www.toptal.com/designers/subtlepatterns",
+    "tags": [
+      "patterns",
+      "design",
+      "free",
+      "downloadable",
+      "graphics",
+      "web design"
+    ]
   },
   {
-    "category": "Patterns",
-    "description": "SiteOrigin Backgrounds offers free simple and customizable background patterns for your website or project.",
-    "shortDescription": "Free customizable background patterns.",
-    "linkText": "SiteOrigin Backgrounds",
+    "category": "Backgrounds",
+    "description": "Backgrounds by Site Origin offers free, customizable background patterns designed to enhance any website.",
+    "shortDescription": "Customizable website backgrounds.",
+    "linkText": "Backgrounds by Site Origin",
     "imageUrl": "https://bg.siteorigin.com/favicon.ico",
-    "imageAlt": "SiteOrigin Backgrounds Logo",
-    "link": "https://bg.siteorigin.com/",
-    "tags": ["backgrounds", "patterns", "free", "customizable", "web design", "creative resources"]
+    "imageAlt": "Backgrounds by Site Origin Favicon",
+    "link": "https://bg.siteorigin.com",
+    "tags": [
+      "backgrounds",
+      "patterns",
+      "free",
+      "customizable",
+      "website design",
+      "graphics"
+    ]
   },
   {
-    "category": "Patterns",
-    "description": "Cool Backgrounds allows users to create beautiful and simple backgrounds with gradients and patterns.",
-    "shortDescription": "Create custom backgrounds with gradients.",
+    "category": "Backgrounds",
+    "description": "Cool Backgrounds provides a set of tools to create custom backgrounds, including gradients and SVG patterns.",
+    "shortDescription": "Tools for custom backgrounds.",
     "linkText": "Cool Backgrounds",
     "imageUrl": "https://coolbackgrounds.io/images/favicon-fe5a0ff5.png",
-    "imageAlt": "Cool Backgrounds Logo",
-    "link": "https://coolbackgrounds.io/",
-    "tags": ["backgrounds", "patterns", "gradients", "design", "customizable", "creative resources"]
+    "imageAlt": "Cool Backgrounds Favicon",
+    "link": "https://coolbackgrounds.io",
+    "tags": [
+      "backgrounds",
+      "tools",
+      "customizable",
+      "SVG",
+      "gradients",
+      "design"
+    ]
   },
   {
-    "category": "Patterns",
-    "description": "CSS3 Patterns Gallery provides a collection of free and creative CSS-based background patterns for web development.",
-    "shortDescription": "Free CSS3 background patterns.",
-    "linkText": "CSS3 Patterns",
+    "category": "Backgrounds",
+    "description": "CSS3 Patterns Gallery offers a comprehensive gallery of CSS-only patterns for web designers.",
+    "shortDescription": "CSS-only patterns for designers.",
+    "linkText": "CSS3 Patterns Gallery",
     "imageUrl": "https://projects.verou.me/css3patterns/noise.png",
-    "imageAlt": "CSS3 Patterns Logo",
-    "link": "https://projects.verou.me/css3patterns/",
-    "tags": ["CSS", "patterns", "backgrounds", "web design", "free", "development tools"]
+    "imageAlt": "CSS3 Patterns Gallery",
+    "link": "https://projects.verou.me/css3patterns",
+    "tags": [
+      "CSS",
+      "patterns",
+      "gallery",
+      "web design",
+      "free",
+      "resources"
+    ]
   },
   {
-    "category": "Patterns",
-    "description": "FFFuel offers simple and creative background patterns for designers, allowing them to easily customize their designs.",
-    "shortDescription": "Creative background patterns.",
-    "linkText": "FFFuel",
-    "imageUrl": "https://www.fffuel.co/images/favicon/favicon.ico",
-    "imageAlt": "FFFuel Logo",
-    "link": "https://www.fffuel.co/",
-    "tags": ["backgrounds", "patterns", "design tools", "customizable", "web design", "free"]
+    "category": "Design Tools",
+    "description": "Fffuel provides creative design tools including pattern generators and gradient creators for designers.",
+    "shortDescription": "Design tools for patterns and gradients.",
+    "linkText": "Fffuel",
+    "imageUrl": "https://www.fffuel.co/images/favicon/favicon.svg",
+    "imageAlt": "Fffuel Favicon",
+    "link": "https://www.fffuel.co",
+    "tags": [
+      "design tools",
+      "patterns",
+      "gradients",
+      "creativity",
+      "web design",
+      "graphics"
+    ]
   },
   {
-    "category": "Patterns",
-    "description": "Shape Divider provides customizable shape dividers for creating unique section transitions in web design.",
-    "shortDescription": "Customizable shape dividers for web design.",
+    "category": "Photography",
+    "description": "Shopify offers high-quality, royalty-free stock photos for businesses to use in marketing, product pages, and more, enhancing their online presence.",
+    "shortDescription": "High-quality royalty-free stock photos.",
+    "linkText": "Shopify Stock Photos",
+    "imageUrl": "https://cdn.shopify.com/shopifycloud/stock_photos/assets/global/favicon-ab7018e1fe708a49edcfecce3166032fbeeb1fd7ba4a078c366de344d32ee193.png",
+    "imageAlt": "Shopify Stock Photos Favicon",
+    "link": "https://www.shopify.com/stock-photos",
+    "tags": ["stock photos", "royalty-free", "high-quality", "marketing", "business", "e-commerce"]
+  },
+  {
+    "category": "Design Tools",
+    "description": "Shape Divider offers a unique tool for creating custom SVG shapes and dividers for modern web design.",
+    "shortDescription": "Custom SVG shape creator.",
     "linkText": "Shape Divider",
-    "imageUrl": "https://shapedivider.app/favicon.ico",
-    "imageAlt": "Shape Divider Logo",
-    "link": "https://www.shapedivider.app/",
-    "tags": ["web design", "shape dividers", "backgrounds", "creative resources", "customizable", "free"]
+    "imageUrl": "https://shapedivider.app/img/logo_500x500.18aca7aa.png",
+    "imageAlt": "Shape Divider Favicon",
+    "link": "https://www.shapedivider.app",
+    "tags": [
+      "SVG",
+      "shapes",
+      "customizable",
+      "web design",
+      "tool",
+      "graphics"
+    ]
   },
   {
-    "category": "Patterns",
-    "description": "Haikei offers a variety of customizable SVG patterns, blobs, waves, and backgrounds for web design.",
-    "shortDescription": "Customizable SVG patterns and backgrounds.",
-    "linkText": "Haikei",
-    "imageUrl": "https://app.haikei.app/covers/circle-scatter-cover.png",
-    "imageAlt": "Haikei Logo",
-    "link": "https://app.haikei.app/",
-    "tags": ["SVG", "patterns", "backgrounds", "customizable", "web design", "creative resources"]
-  },
-  {
-    "category": "Data Tools",
-    "description": "Mockaroo is an online tool that generates mock data in CSV, SQL, and JSON formats for testing and development.",
-    "shortDescription": "Mock data generator for development.",
-    "linkText": "Mockaroo",
-    "imageUrl": "https://www.mockaroo.com/favicon.ico",
-    "imageAlt": "Mockaroo Logo",
-    "link": "https://www.mockaroo.com/",
-    "tags": ["mock data", "CSV", "SQL", "JSON", "development tools", "testing"]
-  },
-  {
-    "category": "Data Tools",
-    "description": "CSVJSON is a tool that converts between CSV, JSON, and SQL formats, with customization options for data manipulation.",
-    "shortDescription": "Convert CSV, JSON, and SQL data.",
-    "linkText": "CSVJSON",
-    "imageUrl": "https://csvjson.com/favicon.ico",
-    "imageAlt": "CSVJSON Logo",
-    "link": "https://csvjson.com/",
-    "tags": ["data conversion", "CSV", "JSON", "SQL", "tools", "development"]
-  },
-  {
-    "category": "Icons",
-    "description": "SVGRepo offers a collection of free SVG icons and illustrations for use in design projects.",
-    "shortDescription": "Free SVG icons and illustrations.",
-    "linkText": "SVGRepo",
-    "imageUrl": "https://www.svgrepo.com/logo.svg",
-    "imageAlt": "SVGRepo Logo",
-    "link": "https://www.svgrepo.com/",
-    "tags": ["icons", "SVG", "free icons", "illustrations", "creative resources", "web design"]
-  },
-  {
-    "category": "Data Tools",
-    "description": "SQLite Viewer is an online tool to easily view and query SQLite database files in your browser.",
-    "shortDescription": "View and query SQLite files online.",
+    "category": "Data Visualization",
+    "description": "SQLite Viewer offers an easy-to-use interface to view SQLite files directly in your browser, simplifying data analysis.",
+    "shortDescription": "View SQLite files in browser.",
     "linkText": "SQLite Viewer",
     "imageUrl": "https://sqliteviewer.app/favicon.ico",
-    "imageAlt": "SQLite Viewer Logo",
-    "link": "https://sqliteviewer.app/",
-    "tags": ["SQLite", "database", "development tools", "data analysis", "online tool", "queries"]
+    "imageAlt": "SQLite Viewer Favicon",
+    "link": "https://sqliteviewer.app",
+    "tags": [
+      "SQLite",
+      "data visualization",
+      "tools",
+      "browser",
+      "analysis",
+      "database"
+    ]
   },
   {
-    "category": "Colors",
-    "description": "Coolors is a fast and easy-to-use color scheme generator, perfect for design projects and web development.",
-    "shortDescription": "Fast color scheme generator.",
-    "linkText": "Coolors",
-    "imageUrl": "https://coolors.co/assets/img/logo.svg",
-    "imageAlt": "Coolors Logo",
-    "link": "https://coolors.co/",
-    "tags": ["colors", "color scheme", "design tools", "web design", "creative resources", "color palette"]
-  },
-  {
-    "category": "Data Tools",
-    "description": "JSON Hero is a powerful JSON viewer for visualizing and exploring JSON data.",
-    "shortDescription": "Visualize and explore JSON data.",
-    "linkText": "JSON Hero",
-    "imageUrl": "https://jsonhero.io/favicon.ico",
-    "imageAlt": "JSON Hero Logo",
-    "link": "https://jsonhero.io/",
-    "tags": ["JSON", "data visualization", "development tools", "data analysis", "web tools", "JSON explorer"]
-  },
-  {
-    "category": "Colors",
-    "description": "Color Hunt is a free and curated collection of beautiful color palettes for designers and artists.",
-    "shortDescription": "Free curated color palettes.",
-    "linkText": "Color Hunt",
-    "imageUrl": "https://colorhunt.co/img/colorhunt-favicon.svg?2",
-    "imageAlt": "Color Hunt Logo",
-    "link": "https://colorhunt.co/img/color-hunt-og.png",
-    "tags": ["colors", "color palette", "design tools", "inspiration", "creative resources", "web design"]
+    "category": "Data Visualization",
+    "description": "Jsonhero.io provides a user-friendly interface to visually navigate JSON structures, enhancing data handling and debugging.",
+    "shortDescription": "Interactive JSON viewer.",
+    "linkText": "Jsonhero",
+    "imageUrl": "https://jsonhero.io/build/_assets/opengraph-P6EWTI3J.png",
+    "imageAlt": "Jsonhero Logo",
+    "link": "https://jsonhero.io",
+    "tags": [
+      "JSON",
+      "API",
+      "data visualization",
+      "web tool",
+      "debugging",
+      "development"
+    ]
   },
   {
     "category": "Icons",
-    "description": "IconArchive offers a searchable collection of high-quality free and premium icons for personal and commercial use.",
-    "shortDescription": "Searchable icon collection.",
+    "description": "Get Bootstrap Icons offers a free, high-quality icon library designed to be paired seamlessly with Bootstrap components.",
+    "shortDescription": "Bootstrap-compatible icon library.",
+    "linkText": "Get Bootstrap Icons",
+    "imageUrl": "https://icons.getbootstrap.com/assets/img/favicons/apple-touch-icon.png",
+    "imageAlt": "Bootstrap Icons",
+    "link": "https://icons.getbootstrap.com",
+    "tags": [
+      "icons",
+      "Bootstrap",
+      "free",
+      "library",
+      "web design",
+      "UI"
+    ]
+  },
+  {
+    "category": "Icons",
+    "description": "SVG Repo hosts thousands of free SVG vectors suitable for various design projects, readily available for commercial use.",
+    "shortDescription": "Free SVG vectors for design.",
+    "linkText": "SVG Repo",
+    "imageUrl": "https://www.svgrepo.com/logo.svg",
+    "imageAlt": "SVG Repo Logo",
+    "link": "https://www.svgrepo.com",
+    "tags": [
+      "SVG",
+      "vectors",
+      "free",
+      "design resources",
+      "graphics",
+      "web design"
+    ]
+  },
+  {
+    "category": "Icons",
+    "description": "IconArchive is a vast repository offering thousands of free and premium icons for designers and developers to use in their projects and applications.",
+    "shortDescription": "Extensive library of free and premium icons.",
     "linkText": "IconArchive",
-    "imageUrl": "https://iconarchive.com/favicon.ico",
+    "imageUrl": "https://www.iconarchive.com/static/images/favicon3-apple-touch-180x180.png",
     "imageAlt": "IconArchive Logo",
-    "link": "https://iconarchive.com/",
-    "tags": ["icons", "free icons", "premium icons", "design tools", "web design", "creative resources"]
+    "link": "https://iconarchive.com",
+    "tags": ["icons", "free icons", "premium icons", "design", "web development", "resources", "graphics"]
+  },
+  {
+    "category": "Design Tools",
+    "description": "Icon Archive offers a vast repository of high-quality icons for web and application design, available in various formats.",
+    "shortDescription": "Repository of high-quality icons.",
+    "linkText": "Icon Archive",
+    "imageUrl": "https://www.iconarchive.com/static/images/favicon3-apple-touch-180x180.png",
+    "imageAlt": "Icon Archive Favicon",
+    "link": "https://www.iconarchive.com",
+    "tags": [
+      "icons",
+      "high-quality",
+      "design tools",
+      "applications",
+      "web design",
+      "resources"
+    ]
+  },
+  {
+    "category": "Data Generation",
+    "description": "Mockaroo offers realistic data generation for software testing and development, supporting a range of data types and formats.",
+    "shortDescription": "Realistic data generator for testing.",
+    "linkText": "Mockaroo",
+    "imageUrl": "https://www.mockaroo.com/favicon.ico",
+    "imageAlt": "Mockaroo Favicon",
+    "link": "https://www.mockaroo.com",
+    "tags": [
+      "data generation",
+      "testing",
+      "software development",
+      "tools",
+      "data",
+      "simulation"
+    ]
+  },
+  {
+    "category": "Data Tools",
+    "description": "CSV JSON provides tools for converting between CSV and JSON formats, simplifying data manipulation for developers.",
+    "shortDescription": "CSV and JSON conversion tools.",
+    "linkText": "CSV JSON",
+    "imageUrl": "https://csvjson.com/img/favicon.ico",
+    "imageAlt": "CSV JSON Favicon",
+    "link": "https://csvjson.com",
+    "tags": [
+      "CSV",
+      "JSON",
+      "data tools",
+      "conversion",
+      "web tool",
+      "development"
+    ]
+  },
+  {
+    "category": "Fonts",
+    "description": "Fontshare is a platform offering high-quality, selectively curated fonts available for free, designed for digital projects.",
+    "shortDescription": "Curated high-quality free fonts.",
+    "linkText": "Fontshare",
+    "imageUrl": "https://pbs.twimg.com/profile_images/1373587812109361154/LmzaPuq-_400x400.jpg",
+    "imageAlt": "Fontshare Logo",
+    "link": "https://www.fontshare.com",
+    "tags": [
+      "fonts",
+      "free",
+      "typography",
+      "design",
+      "web design",
+      "graphics"
+    ]
+  },
+  {
+    "category": "Fonts",
+    "description": "XZ Fonts offers a range of professionally designed fonts for digital and print media, enhancing typographic style.",
+    "shortDescription": "Professional fonts for media.",
+    "linkText": "XZ Fonts",
+    "imageUrl": "https://2966418452-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/spaces%2F-M45SHIzm-P0Y-vjvrXE%2Favatar-1587931633773.png?generation=1587931634036155&alt=media",
+    "imageAlt": "XZ Fonts Favicon",
+    "link": "https://docs.xz.style/fonts",
+    "tags": [
+      "fonts",
+      "professional",
+      "typography",
+      "media",
+      "design",
+      "digital"
+    ]
+  },
+  {
+    "category": "Photography",
+    "description": "Picsum provides easy access to high-quality images for use as placeholders or in design mockups.",
+    "shortDescription": "High-quality images for placeholders.",
+    "linkText": "Picsum",
+    "imageUrl": "https://picsum.photos/assets/images/favicon/favicon-32x32.png",
+    "imageAlt": "Picsum Photos Favicon",
+    "link": "https://picsum.photos",
+    "tags": [
+      "photos",
+      "high-quality",
+      "placeholders",
+      "free",
+      "design",
+      "mockups"
+    ]
+  },
+  {
+    "category": "Web Development",
+    "description": "Always Data offers web hosting, data hosting, and platform services with a focus on data security and reliability.",
+    "shortDescription": "Web and data hosting services.",
+    "linkText": "Always Data",
+    "imageUrl": "https://static.alwaysdata.com/media/reseller/1/theme/favicon_kfxZA8s.png",
+    "imageAlt": "Always Data Favicon",
+    "link": "https://www.alwaysdata.com",
+    "tags": [
+      "web hosting",
+      "data hosting",
+      "security",
+      "reliable",
+      "services",
+      "data"
+    ]
+  },
+  {
+    "category": "Web Development",
+    "description": "AwardSpace offers free web hosting services along with premium options, catering to new and small businesses looking for an online presence.",
+    "shortDescription": "Free and premium web hosting.",
+    "linkText": "AwardSpace",
+    "imageUrl": "https://www.awardspace.com/wp-content/uploads/2022/09/awardspace-favicon-300x300.png",
+    "imageAlt": "AwardSpace Logo",
+    "link": "https://www.awardspace.com",
+    "tags": [
+      "web hosting",
+      "free hosting",
+      "premium hosting",
+      "online presence",
+      "business",
+      "website"
+    ]
+  },
+  {
+    "category": "Web Development",
+    "description": "Netlify provides hosting and backend services for web applications and static websites, emphasizing a faster and more flexible web.",
+    "shortDescription": "Hosting and backend services for web apps.",
+    "linkText": "Netlify",
+    "imageUrl": "https://www.netlify.com/v3/static/favicon/apple-touch-icon.png",
+    "imageAlt": "Netlify Logo",
+    "link": "https://www.netlify.com",
+    "tags": [
+      "web development",
+      "hosting",
+      "backend",
+      "applications",
+      "static websites",
+      "cloud services"
+    ]
+  },
+  {
+    "category": "Design Tools",
+    "description": "Figma offers a cloud-based design tool that enables collaborative interface design across entire teams.",
+    "shortDescription": "Collaborative interface design tool.",
+    "linkText": "Figma",
+    "imageUrl": "https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099",
+    "imageAlt": "Figma Logo",
+    "link": "https://www.figma.com",
+    "tags": [
+      "design tools",
+      "UI/UX",
+      "collaboration",
+      "interface design",
+      "cloud-based",
+      "teamwork"
+    ]
+  },
+  {
+    "category": "Icons",
+    "description": "Iconfinder offers millions of high-quality icons for all purposes, from enhancing web interfaces to enriching mobile apps.",
+    "shortDescription": "High-quality icons for all purposes.",
+    "linkText": "Iconfinder",
+    "imageUrl": "https://www.iconfinder.com/favicon.ico",
+    "imageAlt": "Iconfinder Logo",
+    "link": "https://www.iconfinder.com",
+    "tags": [
+      "icons",
+      "high-quality",
+      "web design",
+      "mobile apps",
+      "graphic design",
+      "resources"
+    ]
+  },
+  {
+    "category": "Web Development",
+    "description": "Vercel provides a platform for frontend frameworks and static sites, built to integrate with your headless content, commerce, or database.",
+    "shortDescription": "Deployment and hosting for modern web projects.",
+    "linkText": "Vercel",
+    "imageUrl": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/180x180.png",
+    "imageAlt": "Vercel Logo",
+    "link": "https://vercel.com",
+    "tags": ["hosting", "deployment", "serverless", "web development", "JAMstack", "Next.js", "React"]
   }
+
 ]
+
+
+
