@@ -349,23 +349,6 @@
   },
   {
     "category": "Icons",
-    "description": "Icon Finder provides high-quality icons in various formats to enhance web and application interfaces.",
-    "shortDescription": "High-quality icons for interfaces.",
-    "linkText": "Icon Finder",
-    "imageUrl": "https://www.iconfinder.com/favicon.ico",
-    "imageAlt": "Icon Finder Favicon",
-    "link": "https://www.iconfinder.com",
-    "tags": [
-      "icons",
-      "high-quality",
-      "web development",
-      "applications",
-      "UI design",
-      "resources"
-    ]
-  },
-  {
-    "category": "Icons",
     "description": "RealFaviconGenerator offers a comprehensive service for creating and testing favicons for all platforms, ensuring compatibility across devices.",
     "shortDescription": "Favicon creation and testing service.",
     "linkText": "RealFaviconGenerator",
@@ -812,7 +795,163 @@
     "imageAlt": "Vercel Logo",
     "link": "https://vercel.com",
     "tags": ["hosting", "deployment", "serverless", "web development", "JAMstack", "Next.js", "React"]
+  },
+  {
+    "category": "Data Generation",
+    "description": "Generatedata.com is a versatile online tool that helps users generate customized datasets for testing, development, or research purposes. It supports various data formats and allows users to define complex data structures.",
+    "shortDescription": "Customizable data generation tool.",
+    "linkText": "Generatedata",
+    "imageUrl": "https://generatedata.com/images/favicon.ico",
+    "imageAlt": "Generatedata Logo",
+    "link": "https://generatedata.com/generator",
+    "tags": [
+      "data generation",
+      "testing",
+      "development",
+      "custom datasets",
+      "research",
+      "tools"
+    ]
+  },
+  {
+    "category": "Data Generation",
+    "description": "RndGen.com is a free online random data generator, offering various data types like names, addresses, and custom sequences for use in software testing, development, or simulations.",
+    "shortDescription": "Random data generator for testing.",
+    "linkText": "RndGen",
+    "imageUrl": "https://www.rndgen.com/favicon/icon-384.png",
+    "imageAlt": "RndGen Logo",
+    "link": "https://www.rndgen.com/data-generator",
+    "tags": [
+      "data generation",
+      "random data",
+      "testing",
+      "development",
+      "simulation",
+      "tools"
+    ]
+  },
+  {
+    "category": "Data Generation",
+    "description": "SQLDataGenerator offers a flexible platform for generating random datasets in multiple formats, including SQL, CSV, and JSON. It's ideal for developers and testers who need custom data for various applications.",
+    "shortDescription": "Random data generation for SQL and more.",
+    "linkText": "SQLDataGenerator",
+    "imageUrl": "https://sqldatagenerator.com/favicon.ico",
+    "imageAlt": "SQLDataGenerator Logo",
+    "link": "https://sqldatagenerator.com/generator",
+    "tags": [
+      "data generation",
+      "SQL",
+      "CSV",
+      "JSON",
+      "testing",
+      "development",
+      "tools"
+    ]
+  },
+  {
+    "category": "Web Editors",
+    "description": "Programiz SQL Online Compiler is a user-friendly platform that allows users to write, execute, and test SQL queries directly in their browser. It's perfect for learning, testing, and practicing SQL without the need for local installations.",
+    "shortDescription": "Online SQL compiler and editor.",
+    "linkText": "Programiz SQL Compiler",
+    "imageUrl": "https://cdn.programiz.com/sites/tutorial2program/files/programiz-favicon_3.png",
+    "imageAlt": "Programiz Logo",
+    "link": "https://www.programiz.com/sql/online-compiler/",
+    "tags": [
+      "SQL",
+      "online compiler",
+      "web editor",
+      "learning",
+      "development",
+      "tools"
+    ]
+  },
+  {
+    "category": "API Generation",
+    "description": "Mocky Designer is an easy-to-use tool for generating custom mock APIs. It allows developers to quickly create and share HTTP mock responses for testing and prototyping without writing server-side code.",
+    "shortDescription": "Custom mock API generator.",
+    "linkText": "Mocky Designer",
+    "imageUrl": "https://designer.mocky.io/favicon.png",
+    "imageAlt": "Mocky Designer Logo",
+    "link": "https://designer.mocky.io/",
+    "tags": [
+      "API generation",
+      "mock APIs",
+      "testing",
+      "development",
+      "prototyping",
+      "tools"
+    ]
+  },
+  {
+    "category": "API Generation",
+    "description": "Retool's API Generator allows developers to easily create APIs by connecting to databases or other data sources. It simplifies building custom endpoints without the need for extensive backend coding.",
+    "shortDescription": "API generator for custom endpoints.",
+    "linkText": "Retool API Generator",
+    "imageUrl": "https://retool.com/favicon.png",
+    "imageAlt": "Retool Logo",
+    "link": "https://retool.com/api-generator",
+    "tags": [
+      "API generation",
+      "custom APIs",
+      "development",
+      "backend",
+      "data sources",
+      "tools"
+    ]
+  },
+  {
+    "category": "Web Development",
+    "description": "HackerRank is a platform for developers to practice coding, participate in coding competitions, and prepare for technical interviews with a range of coding challenges.",
+    "shortDescription": "Coding practice and competition platform.",
+    "linkText": "HackerRank",
+    "imageUrl": "https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-300x300.png",
+    "imageAlt": "HackerRank Logo",
+    "link": "https://www.hackerrank.com/",
+    "tags": [
+      "coding",
+      "programming",
+      "developer",
+      "interview preparation",
+      "challenges",
+      "web development"
+    ]
+  },
+  {
+    "category": "Web Development",
+    "description": "LeetCode is a platform that offers coding challenges and problems to help developers prepare for technical interviews, improve their coding skills, and engage in competitive programming.",
+    "shortDescription": "Coding challenges and interview preparation.",
+    "linkText": "LeetCode",
+    "imageUrl": "https://leetcode.com/apple-touch-icon-152x152.png",
+    "imageAlt": "LeetCode Logo",
+    "link": "https://leetcode.com/",
+    "tags": [
+      "coding",
+      "programming",
+      "developer",
+      "technical interviews",
+      "challenges",
+      "web development"
+    ]
+  },
+  {
+    "category": "Icons",
+    "description": "Material Icons by MUI provides a comprehensive collection of free, open-source icons designed to work seamlessly with Material-UI components for React applications.",
+    "shortDescription": "Open-source icons for Material-UI.",
+    "linkText": "Material Icons",
+    "imageUrl": "https://mui.com/static/icons/180x180.png",
+    "imageAlt": "Material Icons Logo",
+    "link": "https://mui.com/material-ui/material-icons/",
+    "tags": [
+      "icons",
+      "Material-UI",
+      "React",
+      "design",
+      "open-source",
+      "web development"
+    ]
   }
+
+
 
 ]
 
