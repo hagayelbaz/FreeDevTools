@@ -634,6 +634,23 @@
     ]
   },
   {
+    "category": "Data Generation",
+    "description": "SQLable generates fake data for testing in multiple formats, including JSON, CSV, XML, and SQL.",
+    "shortDescription": "Fake data generator for testing.",
+    "linkText": "SQLable",
+    "imageUrl": "https://sqlable.com/favicon-192x192.png",
+    "imageAlt": "SQLable Favicon",
+    "link": "https://sqlable.com/generator/",
+    "tags": [
+      "data generation",
+      "testing",
+      "software development",
+      "tools",
+      "data",
+      "simulation"
+    ]
+  },
+  {
     "category": "Data Tools",
     "description": "CSV JSON provides tools for converting between CSV and JSON formats, simplifying data manipulation for developers.",
     "shortDescription": "CSV and JSON conversion tools.",
@@ -873,6 +890,23 @@
     "imageUrl": "https://designer.mocky.io/favicon.png",
     "imageAlt": "Mocky Designer Logo",
     "link": "https://designer.mocky.io/",
+    "tags": [
+      "API generation",
+      "mock APIs",
+      "testing",
+      "development",
+      "prototyping",
+      "tools"
+    ]
+  },
+  {
+    "category": "API Generation",
+    "description": "JSONing is an open-source tool designed to quickly generate custom mock APIs directly from JSON data.",
+    "shortDescription": "Fake API for testing and prototyping.",
+    "linkText": "JSONing",
+    "imageUrl": "https://jsoning.com/favicon-192x192.png",
+    "imageAlt": "JSONing Logo",
+    "link": "https://jsoning.com/api/",
     "tags": [
       "API generation",
       "mock APIs",
